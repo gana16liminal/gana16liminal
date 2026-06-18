@@ -19,3 +19,15 @@ Final-year EEE student building embedded systems for EVs — STM32, C/C++, real-
 
 ## Let's connect
 [LinkedIn](https://www.linkedin.com/in/ganashree-c-r-8988062a7) · shreegana030@gmail.com
+ ## Education
+B.E. Electrical & Electronics Engineering, Dayananda Sagar Academy of Technology and Management (2022–2026)
+
+## Certifications
+- Introduction to Motor Control — MathWorks
+- Power Systems Simulation Onramp — MathWorks
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gana16liminal&show_icons=true&theme=dark)
+
+## Resume
+📄 [View my Resume](Ganashree%20C%20R-1DT22EE015_.pdf)
