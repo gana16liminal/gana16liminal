@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**gana16liminal/gana16liminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Ganashree 👋
 
 Final-year EEE student building embedded systems for EVs — STM32, C/C++, real-time sensor pipelines, and the occasional debugging rabbit hole.
