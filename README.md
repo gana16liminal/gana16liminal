@@ -25,22 +25,22 @@ Final-year EEE student building embedded systems for EVs — STM32, C/C++, real-
 B.E. Electrical & Electronics Engineering, Dayananda Sagar Academy of Technology and Management (2022–2026)
 
 ## Certifications
-- Introduction to Motor Control — MathWorks (<img width="1079" height="751" alt="Motor control certificate" src="https://github.com/user-attachments/assets/df1fdfe2-081a-4253-a17b-b0cafcafb2d8" />
+- [Introduction to Motor Control — MathWorks](https://github.com/user-attachments/assets/df1fdfe2-081a-4253-a17b-b0cafcafb2d8)
 This course strengthened my understanding of motor control systems, an essential area in embedded systems, industrial automation, and electric vehicle applications
 
-- Power Systems Simulation Onramp — MathWorks ( <img width="763" height="536" alt="Power system simulation " src="https://github.com/user-attachments/assets/1dffeeb0-ba27-4555-a482-1aba34beb4aa" />
+  - [Power Systems Simulation Onramp — MathWorks](https://github.com/user-attachments/assets/1dffeeb0-ba27-4555-a482-1aba34beb4aa)
  Used Simulink & Simscape Electrical to build and simulate a three-phase power system – including transformer, transmission line, and fault events – while measuring voltage, current, and power
 
-- Power electronics simulation Onramp — MathWorks (<img width="1002" height="716" alt="Power electronics onramp" src="https://github.com/user-attachments/assets/0947f5d3-bbbd-43ac-9ab3-e9db4b416915" />
+- [Power Electronics Onramp — MathWorks](https://github.com/user-attachments/assets/0947f5d3-bbbd-43ac-9ab3-e9db4b416915)
 Completed a hands-on, introductory certification on modeling and simulating power electronic circuits using MATLAB/Simulink. Gained practical skills in implementing open-loop and closed-loop control for converters such as buck, boost, and buck-boost topologies. Learned to analyze switching characteristics, optimize component behavior, and validate system performance through simulation—reducing the need for rapid physical prototyping.
 
-- Simscape Onramp  — MathWorks (<img width="1079" height="736" alt="WhatsApp Image 2026-06-25 at 18 28 42" src="https://github.com/user-attachments/assets/d5dc7f1b-0adc-48f3-9e12-1d3335d0e385" />
+- [Simscape Onramp — MathWorks](https://github.com/user-attachments/assets/d5dc7f1b-0adc-48f3-9e12-1d3335d0e385)
 This course strengthened my understanding of physical system simulation and model-based design, essential for embedded systems, control engineering, and mechatronics applications
 
-- Simulink Onramp — MathWorks (<img width="1079" height="739" alt="Simulink Onramp " src="https://github.com/user-attachments/assets/4054d153-6b6e-46ea-9a96-27eef3034fd9" />
+- [Simulink Onramp — MathWorks](https://github.com/user-attachments/assets/4054d153-6b6e-46ea-9a96-27eef3034fd9)
 This course strengthened my foundation in model-based design, which is widely used in embedded systems, control systems, and automotive applications.
 
-- Circuit Simulation Onramp — MathWorks (<img width="846" height="589" alt="circuit simulation onramp certificate" src="https://github.com/user-attachments/assets/85ea2a4c-a9f9-40ad-9545-3db53bea2456" />
+  - [Circuit Simulation Onramp — MathWorks](https://github.com/user-attachments/assets/85ea2a4c-a9f9-40ad-9545-3db53bea2456)
 Completed MathWorks' self-paced training on building and simulating electrical circuits in Simulink using Simscape Electrical — covering circuit modeling fundamentals, component connections, and analyzing simulation results for basic electrical systems.
 
 
