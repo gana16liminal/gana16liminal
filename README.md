@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi, I'm Ganashree 👋
+
+***Hi, I'm Ganashree 👋***
 
 Final-year EEE student building embedded systems for EVs — STM32, C/C++, real-time sensor pipelines, and the occasional debugging rabbit hole.
 
