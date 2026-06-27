@@ -9,6 +9,9 @@ Final-year EEE student building embedded systems for EVs — STM32, C/C++, real-
 - 📡 IoT monitoring system for industrial equipment (ESP32, LoRaWAN, MQTT)
 - ⚡ PV-EV charging optimization using Model Predictive Control (Simulink)
 
+
+## Technical Skills 
+
 **Languages:** C, C++, Python, Verilog
 
 **Embedded:** STM32 (HAL), ESP32, Arduino
